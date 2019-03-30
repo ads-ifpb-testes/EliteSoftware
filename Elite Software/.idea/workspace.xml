@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1d910b3-a8c6-472f-ac56-236e06681438" name="Default Changelist" comment="" />
+    <list default="true" id="e1d910b3-a8c6-472f-ac56-236e06681438" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Control/GastosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Control/GastosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Gasto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Gasto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/View/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/View/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Gastos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/View/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View/App.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,10 +26,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/View/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="104" column="59" lean-forward="true" selection-start-line="104" selection-start-column="59" selection-end-line="104" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Model/Usuario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="631">
+              <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
               <folding>
                 <element signature="e#221#222#0" expanded="true" />
                 <element signature="e#248#249#0" expanded="true" />
@@ -26,31 +51,30 @@
                 <element signature="e#376#377#0" expanded="true" />
                 <element signature="e#414#415#0" expanded="true" />
                 <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/View/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Model/Gasto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Control/GastosDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,44 +83,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="375">
+              <caret line="73" column="52" lean-forward="true" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Control/GastosDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Model/Gasto.java">
+        <entry file="file://$PROJECT_DIR$/src/test/javatest/GastosDAOTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+            <state relative-caret-position="721">
+              <caret line="53" column="50" lean-forward="true" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#752#753#0" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-                <element signature="e#879#880#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-                <element signature="e#956#957#0" expanded="true" />
-                <element signature="e#994#995#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/javatest/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,14 +153,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Model/Gastos.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Gasto.java" />
+        <option value="$PROJECT_DIR$/src/test/UsuarioDAOTest.java" />
+        <option value="$PROJECT_DIR$/test/javatest/UsuarioDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/UsuarioDAOTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Model/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/test/javatest/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/View/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/Control/GastosDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/View/App.java" />
+        <option value="$PROJECT_DIR$/src/test/javatest/GastosDAOTest.java" />
       </list>
     </option>
   </component>
@@ -135,12 +188,12 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,22 +225,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Control" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Elite Software" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Elite Software" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Elite Software" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Elite Software" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="View" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,26 +233,39 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Elite Software" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Elite Software" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549135848598" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553921188286" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/java" />
+      <recent name="$PROJECT_DIR$/test" />
       <recent name="C:\Users\kille\Desktop\Projetos" />
       <recent name="C:\Users\kille\Desktop\Projetos\EliteSoftware" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
   <component name="RunDashboard">
@@ -230,23 +280,91 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="View.App" />
-      <module name="Elite Software" />
+  <component name="RunManager" selected="JUnit.GastosDAOTest">
+    <configuration name="GastosDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elitesoftware" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="View.*" />
+          <option name="PATTERN" value="javatest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="javatest" />
+      <option name="MAIN_CLASS_NAME" value="javatest.GastosDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GastosDAOTest.testeDeletarGastoValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elitesoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javatest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javatest" />
+      <option name="MAIN_CLASS_NAME" value="javatest.GastosDAOTest" />
+      <option name="METHOD_NAME" value="testeDeletarGastoValido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GastosDAOTest.testeInserirGastoComValorNegativo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elitesoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javatest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javatest" />
+      <option name="MAIN_CLASS_NAME" value="javatest.GastosDAOTest" />
+      <option name="METHOD_NAME" value="testeInserirGastoComValorNegativo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GastosDAOTest.testeInserirGastoValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elitesoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javatest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javatest" />
+      <option name="MAIN_CLASS_NAME" value="javatest.GastosDAOTest" />
+      <option name="METHOD_NAME" value="testeInserirGastoValido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javatest in elitesoftware" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elitesoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javatest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javatest" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.GastosDAOTest" />
+        <item itemvalue="JUnit.GastosDAOTest.testeDeletarGastoValido" />
+        <item itemvalue="JUnit.javatest in elitesoftware" />
+        <item itemvalue="JUnit.GastosDAOTest.testeInserirGastoValido" />
+        <item itemvalue="JUnit.GastosDAOTest.testeInserirGastoComValorNegativo" />
       </list>
     </recent_temporary>
   </component>
@@ -262,16 +380,50 @@
       <updated>1549130779190</updated>
       <workItem from="1549130784920" duration="2046000" />
       <workItem from="1549133073863" duration="2774000" />
+      <workItem from="1553905915900" duration="651000" />
+      <workItem from="1553906592874" duration="14564000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="UsuarioDAOTest_testeDeExclusãoValido - 2019.03.30 at 01h 31m 45s.xml">
+      <configuration name="UsuarioDAOTest.testeDeExclusãoValido" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="javatest_in_elitesoftware - 2019.03.30 at 01h 31m 53s.xml">
+      <configuration name="javatest in elitesoftware" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GastosDAOTest_testeInserirGastoComValorZero - 2019.03.30 at 01h 38m 04s.xml">
+      <configuration name="GastosDAOTest.testeInserirGastoComValorZero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GastosDAOTest_testeInserirGastoComValorNegativo - 2019.03.30 at 01h 38m 32s.xml">
+      <configuration name="GastosDAOTest.testeInserirGastoComValorNegativo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GastosDAOTest_testeInserirGastoValido - 2019.03.30 at 01h 39m 04s.xml">
+      <configuration name="GastosDAOTest.testeInserirGastoValido" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="javatest_in_elitesoftware - 2019.03.30 at 01h 39m 32s.xml">
+      <configuration name="javatest in elitesoftware" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GastosDAOTest_testeDeletarGastoValido - 2019.03.30 at 01h 42m 20s.xml">
+      <configuration name="GastosDAOTest.testeDeletarGastoValido" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GastosDAOTest_testeDeletarGastoValido - 2019.03.30 at 01h 42m 27s.xml">
+      <configuration name="GastosDAOTest.testeDeletarGastoValido" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GastosDAOTest - 2019.03.30 at 01h 44m 43s.xml">
+      <configuration name="GastosDAOTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GastosDAOTest - 2019.03.30 at 01h 45m 22s.xml">
+      <configuration name="GastosDAOTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4820000" />
+    <option name="totallyTimeSpent" value="20035000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13180363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -280,7 +432,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2861771" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,7 +442,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3290461" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32829374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -301,29 +453,63 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13180363" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2861771" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32829374" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state>
+          <caret selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/View/App.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="465">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Model/Usuario.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="631">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
           <folding>
             <element signature="e#221#222#0" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />
@@ -333,62 +519,92 @@
             <element signature="e#376#377#0" expanded="true" />
             <element signature="e#414#415#0" expanded="true" />
             <element signature="e#444#445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Control/GastosDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Model/Gasto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+        <state relative-caret-position="120">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="104" column="59" lean-forward="true" selection-start-line="104" selection-start-column="59" selection-end-line="104" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/javatest/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Control/GastosDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="73" column="52" lean-forward="true" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/javatest/GastosDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="53" column="50" lean-forward="true" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -433,7 +649,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -445,11 +661,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Elite Software</last-edited>
+          <last-edited>elitesoftware</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

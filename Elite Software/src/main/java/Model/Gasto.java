@@ -7,13 +7,11 @@ public class Gasto {
 
     private LocalDate data;
     private float gasto;
-    private String descricao;
-    private Usuario usuario;
+    private String usuario;
 
-    public Gasto(LocalDate data, float gasto, String descricao, Usuario usuario) {
-        this.data = data;
+    public Gasto(float gasto, String usuario) {
+        this.data = LocalDate.now();
         this.gasto = gasto;
-        this.descricao = descricao;
         this.usuario = usuario;
     }
 
@@ -33,19 +31,20 @@ public class Gasto {
         this.gasto = gasto;
     }
 
-    public String getDescricao() {
-        return descricao;
-    }
-
-    public void setDescricao(String descricao) {
-        this.descricao = descricao;
-    }
-
-    public Usuario getUsuario() {
+    public String getUsuario() {
         return usuario;
     }
 
-    public void setUsuario(Usuario usuario) {
+    public void setUsuario(String usuario) {
         this.usuario = usuario;
+    }
+
+    @Override
+    public String toString() {
+        return "Gasto{" +
+                "data = " + data +
+                ", gasto = " + gasto +
+                ", usuario = '" + usuario + '\'' +
+                '}';
     }
 }
