@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Elite Software" />
         <module name="elitesoftware" />
+        <module name="Elite Software" />
       </profile>
     </annotationProcessing>
   </component>

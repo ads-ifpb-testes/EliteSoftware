@@ -3,17 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e1d910b3-a8c6-472f-ac56-236e06681438" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Control/GastosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Control/GastosDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Gasto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Gasto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/View/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/View/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Model/Gastos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Model/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/View/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/javatest/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/javatest/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/elitesoftware.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/javatest/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/javatest/AppTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,42 +17,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/View/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="104" column="59" lean-forward="true" selection-start-line="104" selection-start-column="59" selection-end-line="104" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Model/Usuario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
+            <state relative-caret-position="585">
               <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
               <folding>
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
                 <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
                 <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
                 <element signature="e#952#953#0" expanded="true" />
                 <element signature="e#982#983#0" expanded="true" />
                 <element signature="e#1025#1026#0" expanded="true" />
@@ -71,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Model/Gasto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="150">
               <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -83,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="73" column="52" lean-forward="true" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+            <state relative-caret-position="1035">
+              <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#170#171#0" expanded="true" />
@@ -97,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Control/GastosDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+            <state relative-caret-position="675">
+              <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#155#156#0" expanded="true" />
@@ -111,20 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/javatest/GastosDAOTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
-              <caret line="53" column="50" lean-forward="true" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+            <state relative-caret-position="300">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,10 +94,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/javatest/GastosDAOTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/javatest/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,6 +131,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
@@ -164,14 +147,18 @@
         <option value="$PROJECT_DIR$/src/test/UsuarioDAOTest.java" />
         <option value="$PROJECT_DIR$/test/javatest/UsuarioDAOTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/UsuarioDAOTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Model/Usuario.java" />
-        <option value="$PROJECT_DIR$/src/test/javatest/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/View/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Control/GastosDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java" />
         <option value="$PROJECT_DIR$/src/test/javatest/GastosDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/DbUnitXml.tld" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Control/GastosDAO.java" />
+        <option value="$PROJECT_DIR$/src/test/javatest/GastosDAOBdUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/dataset.xml" />
+        <option value="$PROJECT_DIR$/src/test/javatest/AppTest.java" />
       </list>
     </option>
   </component>
@@ -194,6 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,6 +214,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Elite Software" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Elite Software" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Elite Software" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Elite Software" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="View" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,28 +249,29 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553921188286" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/test/java" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="C:\Users\kille\Desktop\Projetos" />
       <recent name="C:\Users\kille\Desktop\Projetos\EliteSoftware" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
   <component name="RunDashboard">
@@ -280,7 +286,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GastosDAOTest">
+  <component name="RunManager" selected="JUnit.javatest in Elite Software">
+    <configuration name="AppTest.testeCadastroValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Elite Software" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javatest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javatest" />
+      <option name="MAIN_CLASS_NAME" value="javatest.AppTest" />
+      <option name="METHOD_NAME" value="testeCadastroValido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GastosDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="elitesoftware" />
       <extension name="coverage">
@@ -312,8 +334,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GastosDAOTest.testeInserirGastoComValorNegativo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="elitesoftware" />
+    <configuration name="javatest in Elite Software" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Elite Software" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javatest.*" />
@@ -321,25 +343,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="javatest" />
-      <option name="MAIN_CLASS_NAME" value="javatest.GastosDAOTest" />
-      <option name="METHOD_NAME" value="testeInserirGastoComValorNegativo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GastosDAOTest.testeInserirGastoValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="elitesoftware" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javatest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="javatest" />
-      <option name="MAIN_CLASS_NAME" value="javatest.GastosDAOTest" />
-      <option name="METHOD_NAME" value="testeInserirGastoValido" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -360,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.javatest in Elite Software" />
+        <item itemvalue="JUnit.AppTest.testeCadastroValido" />
         <item itemvalue="JUnit.GastosDAOTest" />
         <item itemvalue="JUnit.GastosDAOTest.testeDeletarGastoValido" />
         <item itemvalue="JUnit.javatest in elitesoftware" />
-        <item itemvalue="JUnit.GastosDAOTest.testeInserirGastoValido" />
-        <item itemvalue="JUnit.GastosDAOTest.testeInserirGastoComValorNegativo" />
       </list>
     </recent_temporary>
   </component>
@@ -382,48 +386,52 @@
       <workItem from="1549133073863" duration="2774000" />
       <workItem from="1553905915900" duration="651000" />
       <workItem from="1553906592874" duration="14564000" />
+      <workItem from="1554099938775" duration="59000" />
+      <workItem from="1554100277394" duration="1987000" />
+      <workItem from="1554127116766" duration="3948000" />
+      <workItem from="1554131139133" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UsuarioDAOTest_testeDeExclusãoValido - 2019.03.30 at 01h 31m 45s.xml">
-      <configuration name="UsuarioDAOTest.testeDeExclusãoValido" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="javatest_in_elitesoftware - 2019.03.30 at 01h 31m 53s.xml">
-      <configuration name="javatest in elitesoftware" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GastosDAOTest_testeInserirGastoComValorZero - 2019.03.30 at 01h 38m 04s.xml">
-      <configuration name="GastosDAOTest.testeInserirGastoComValorZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GastosDAOTest_testeInserirGastoComValorNegativo - 2019.03.30 at 01h 38m 32s.xml">
-      <configuration name="GastosDAOTest.testeInserirGastoComValorNegativo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GastosDAOTest_testeInserirGastoValido - 2019.03.30 at 01h 39m 04s.xml">
-      <configuration name="GastosDAOTest.testeInserirGastoValido" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="javatest_in_elitesoftware - 2019.03.30 at 01h 39m 32s.xml">
-      <configuration name="javatest in elitesoftware" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GastosDAOTest_testeDeletarGastoValido - 2019.03.30 at 01h 42m 20s.xml">
-      <configuration name="GastosDAOTest.testeDeletarGastoValido" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GastosDAOTest_testeDeletarGastoValido - 2019.03.30 at 01h 42m 27s.xml">
-      <configuration name="GastosDAOTest.testeDeletarGastoValido" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GastosDAOTest - 2019.03.30 at 01h 44m 43s.xml">
       <configuration name="GastosDAOTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="GastosDAOTest - 2019.03.30 at 01h 45m 22s.xml">
       <configuration name="GastosDAOTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="javatest_in_Elite_Software - 2019.04.01 at 03h 32m 47s.xml">
+      <configuration name="javatest in Elite Software" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="javatest_in_Elite_Software - 2019.04.01 at 03h 37m 05s.xml">
+      <configuration name="javatest in Elite Software" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="javatest_in_Elite_Software - 2019.04.01 at 03h 54m 05s.xml">
+      <configuration name="javatest in Elite Software" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="javatest_in_Elite_Software - 2019.04.01 at 11h 49m 03s.xml">
+      <configuration name="javatest in Elite Software" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testeCadastroValido - 2019.04.01 at 11h 52m 31s.xml">
+      <configuration name="AppTest.testeCadastroValido" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testeCadastroValido - 2019.04.01 at 11h 55m 24s.xml">
+      <configuration name="AppTest.testeCadastroValido" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testeCadastroValido - 2019.04.01 at 11h 57m 28s.xml">
+      <configuration name="AppTest.testeCadastroValido" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="javatest_in_Elite_Software - 2019.04.01 at 12h 06m 18s.xml">
+      <configuration name="javatest in Elite Software" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20035000" />
+    <option name="totallyTimeSpent" value="26077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13180363" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13820705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -489,44 +497,25 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" />
+        <state relative-caret-position="556">
+          <caret line="46" column="77" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Model/Usuario.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
+        <state relative-caret-position="585">
           <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
           <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
             <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
             <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
             <element signature="e#952#953#0" expanded="true" />
             <element signature="e#982#983#0" expanded="true" />
             <element signature="e#1025#1026#0" expanded="true" />
@@ -537,7 +526,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Model/Gasto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="150">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -545,52 +534,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/View/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="104" column="59" lean-forward="true" selection-start-line="104" selection-start-column="59" selection-end-line="104" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/javatest/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Control/GastosDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Control/UsuarioDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="73" column="52" lean-forward="true" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+        <state relative-caret-position="1035">
+          <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#170#171#0" expanded="true" />
@@ -599,10 +546,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Control/GastosDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/javatest/UsuarioDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/javatest/GastosDAOBdUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/dataset.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/javatest/GastosDAOTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="53" column="50" lean-forward="true" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+        <state relative-caret-position="168">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/javatest/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
